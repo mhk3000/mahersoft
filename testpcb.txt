@@ -1,0 +1,3 @@
+the list of pcbs to make
+1. ultipanel and sdcard
+2. heater pins and temperature sensors
